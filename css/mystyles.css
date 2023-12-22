@@ -1,0 +1,41 @@
+.title {
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    color:aliceblue;
+}
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aliceblue;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:slategrey;
+}
+.darkcolor {
+    background-color:cadetblue !important;
+}
+.background {
+    background-image: url(https://i.pinimg.com/originals/e4/c9/78/e4c97898b362472bdf6be73af2a77524.jpg);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text {
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    color:aliceblue;
+}
+.menu {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aliceblue;
+}
+.list {
+    font-family: 'Courier New', monospace;
+    color:aliceblue;
+}
+.link {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:cornflowerblue; 
+}
